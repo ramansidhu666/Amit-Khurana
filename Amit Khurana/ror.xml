@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://amitkhurana.ca/</title>
+  <link>http://amitkhurana.ca/</link>
+
+<item>
+     <link>http://amitkhurana.ca/</link>
+     <title>Amit Khurana - Mortgage Architect, Specialist, Low Cost  &amp; Top Ten Mortgage Broker Associate | Mortgage Solutions Mississauga</title>
+     <description>Amit Khurana is one of the best mortgage specialist in Mississauga, providing the complete financial solutions to the customers. We have the dedicated and experienced team of mortgage associates in our company. If you are looking for right financial solution for your business or buying new property, get in touch with Amit khurana @ +01-647 341 2785.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://amitkhurana.ca/images/CENTUM_Indigo_Mortgage-Application.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

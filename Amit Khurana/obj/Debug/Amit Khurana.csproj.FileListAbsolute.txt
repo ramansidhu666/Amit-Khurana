@@ -1,0 +1,338 @@
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll.config
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Amit Khurana.pdb
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Antlr3.Runtime.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\EntityFramework.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Infrastructure.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Spatial.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Optimization.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Razor.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\WebGrease.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\WebMatrix.Data.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\EntityFramework.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Razor.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\WebMatrix.Data.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\System.Spatial.xml
+D:\Maninder\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\de\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\es\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\fr\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\it\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ja\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ko\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\ru\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hans\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\bin\zh-Hant\System.Spatial.resources.dll
+D:\Maninder\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.csprojResolveAssemblyReference.cache
+D:\Maninder\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.dll
+D:\Maninder\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.pdb
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll.config
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Amit Khurana.pdb
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Antlr3.Runtime.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\EntityFramework.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Infrastructure.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Spatial.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Optimization.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Razor.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\WebGrease.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\EntityFramework.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Razor.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\System.Spatial.xml
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\de\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\es\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\fr\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\it\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ja\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ko\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\ru\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hans\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\bin\zh-Hant\System.Spatial.resources.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.dll
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.pdb
+C:\Sites\Paramsites\amit khurana\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll.config
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Amit Khurana.pdb
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Spatial.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\WebGrease.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\System.Spatial.xml
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\de\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\es\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\fr\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\it\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ja\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ko\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\ru\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.dll
+C:\Users\DELL\Desktop\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.pdb
+C:\sites\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.csprojResolveAssemblyReference.cache
+C:\sites\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll.config
+C:\sites\Amit Khurana\Amit Khurana\bin\Amit Khurana.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Amit Khurana.pdb
+C:\sites\Amit Khurana\Amit Khurana\bin\Antlr3.Runtime.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\EntityFramework.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Infrastructure.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Spatial.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Optimization.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Razor.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\WebGrease.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\EntityFramework.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\Newtonsoft.Json.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Net.Http.Formatting.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Helpers.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.WebHost.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Mvc.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Razor.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Deployment.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.WebPages.Razor.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\WebMatrix.WebData.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.AspNet.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.Core.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OAuth.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Web.Http.OData.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Data.Edm.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\Microsoft.Data.OData.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\System.Spatial.xml
+C:\sites\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\de\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\es\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\fr\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\it\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ja\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ko\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ru\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\de\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\es\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\fr\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\it\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ja\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ko\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\ru\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hans\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\bin\zh-Hant\System.Spatial.resources.dll
+C:\sites\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.dll
+C:\sites\Amit Khurana\Amit Khurana\obj\Debug\Amit Khurana.pdb

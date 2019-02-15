@@ -1,0 +1,849 @@
+﻿
+@model  Amit_Khurana.Models.NewsModel
+@{
+    ViewBag.Title = null;
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<style>
+    #myList li {
+        display: none;
+    }
+
+    .hdg_txt_limit {
+        line-height: 1.4em;
+        height: 3em;
+        overflow: hidden;
+    }
+
+    .p_txt_limit {
+        line-height: 1.4em;
+        height: 3em;
+        overflow: hidden;
+    }
+
+    .romana_contact_formnew {
+        margin-top: 15px !important;
+    }
+</style>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+<head>
+<link rel="icon" type="image/x-icon" href="../amitkhurana/images/favicon.png"/>
+
+    <title>Mortgage Architect, Specialist | Mortgage Solutions Mississauga</title>
+    <meta name="keywords" content="popular mortgage Mississauga, mortgage solutions Mississauga, mortgage architects Mississauga, Mortgage Solutions in Mississauga" />
+    <meta name="description" content="We at, CENTUM Canada Mortgage are providing the best mortgage solutions in Mississauga. Over 4 years of Experience we will ensure you get the best Guidance." />
+    <meta name="viewport" content="width=device-width">
+    <meta name="google-site-verification" content="Krwu5wmtrY6CDxKEg-V3Q6OEggfd8q8pKVPgeul-Kl8"/>
+    <!-- ================================================================
+        ***Favicon***
+    ================================================================= -->
+    <!-- <link rel="shortcut icon" type="image/png" href="images/fevicon.png">-->
+    <!-- ================================================================
+        ***CSS File***
+    ================================================================= -->
+    <script type="application/ld+json">
+        {
+        "@@context": "http://schema.org",
+        "@@type": "ProfessionalService",
+        "name": "AmitKhurana",
+        "url": "http://amitkhurana.ca",
+        "email" : "amit_khurana@centum.ca",
+        "telephone": "6473412785",
+        "address": {
+        "@@type": "PostalAddress",
+        "streetAddress": "33 Mclaughlin Road North",
+        "addressLocality": "Brampton",
+        "addressRegion": "ON",
+        "postalCode": "L6X 1Y8",
+        "addressCountry": "CA"
+        },
+        "openingHoursSpecification": {
+        "@@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00"
+        }
+        }
+    </script>
+    <!-- ================= *** Google Font-Poppins *** ======================= -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+
+    <!-- ================= *** Animate CSS *** ======================= -->
+
+    <link href="~/amitkhurana/css/animate.min.css" rel="stylesheet" type="text/css" />
+    <!-- ================= *** Bootstrap CSS *** ===================== -->
+    <link href="~/amitkhurana/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- ================= *** Font-awesome CSS *** ================== -->
+
+    <link href="~/amitkhurana/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- ================= *** icofont CSS *** ======================= -->
+    <link href="~/amitkhurana/css/icofont.css" rel="stylesheet" type="text/css">
+
+    <!-- ================= *** Owl Carousel CSS *** ================== -->
+    <link href="~/amitkhurana/css/owl.carousel.css" rel="stylesheet" type="text/css">
+
+    <!-- ================= *** Main CSS *** ========================== -->
+    <link href="~/amitkhurana/css/custom/style.css" rel="stylesheet" />
+    <link href="~/amitkhurana/css/custom/banner_slider.css" rel="stylesheet" />
+
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128266398-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-128266398-1');
+</script> 
+
+
+</head>
+
+<body class="home">
+    <div id="preloader">
+        <div class="preloader_spinner"></div>
+    </div>
+    <!-- preloader end -->
+    <!-- ==========================================================
+        1.*Header_area start
+    ============================================================ -->
+    <header>
+        <div class="romana_header_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7 col-sm-8">
+                        <div class="romana_header_top_left">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-envelope"></i>amit_khurana@centum.ca</a></li>
+                                <li><a href="#"><i class="fa fa-phone"></i>647-341-2785</a></li>
+                                <!-- <li><a href="#"><i class="icofont icofont-clock-time"></i>Mon-sat(10am-4pm)</a></li>-->
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-md-5 col-sm-4">
+                        <div class="romana_header_top_right text-right">
+                            <a style="background-color:white; color:black;" href="~/images/CENTUM_Indigo_Mortgage-Application.pdf" target="_blank">Mortgage Application</a>
+                            <a href="../Home/Appointment">Make an Appointment</a>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                </div>
+                <!-- row End -->
+            </div>
+            <!-- container End -->
+        </div>
+        <!-- Header-Top End -->
+        <div class="romana_header_bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3 col-xs-6">
+                        <div class="romana_logo">
+                            <a href="../Home/Index"><img src="~/amitkhurana/images/logo.png" alt="Centum Indigo Mortgage Corp"></a>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-sm-9">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only"></span>
+                                <i class="fa fa-navicon"></i>
+                            </button>
+                        </div>
+                        <nav id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li class=""><a href="../Home/Index">home</a></li>
+                                <li class=""><a href="../Home/About" >about us</a></li>
+
+                                <li>
+                                    <a href="#">My expertise</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="../Home/mortgage_rates">Better mortgage rates</a></li>
+                                        <li><a href="../Home/refinancing">Refinancing</a></li>
+                                        <li><a href="../Home/debt_consolidation">debt_consolidation</a></li>
+                                        <li><a href="../Home/private_funds">Private funds</a></li>
+                                        <li><a href="../Home/mortgages">First & Second Mortgages</a></li>
+                                        <li><a href="../Home/bruise_credit">Mortgages with bruise credit</a></li>
+                                        <li><a href="../Home/lease_programme">Lease to Own programme</a></li>
+                                        <li><a href="../Home/mortgage_loan">Better mortgage loans</a></li>
+                                        <li><a href="../Home/mortgage_broker">Mortgage broker</a></li>
+                                    </ul>
+                                    <!-- dropdown-menu End -->
+                                <li>
+                                    <a href="#">mortgage calculators</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="../Home/land_transfer">Land Transfer Tax</a></li>
+                                        <li><a href="../Home/mortgage_payment">Mortgage Payment</a></li>
+                                        <li><a href="../Home/cmhc_premium">CMHC Premium</a></li>
+                                    </ul>
+                                    <!-- dropdown-menu End -->
+                                </li>
+                                <li><a href="../Home/news">mortgage news</a></li>
+                                <li><a href="../Home/Contact">Contact</a></li>
+                            </ul>
+                            <!-- mega-menu End -->
+                        </nav>
+                        <!-- nav End -->
+                        <!-- <ul class="cartSearch">
+                            <li class="search"><a href="#"><i class="icofont icofont-search"></i></a></li>
+                            <li class="cart"><a href="cart.html"><i class="icofont icofont-cart-alt"></i><span>1</span></a></li>
+                        </ul>-->
+                        <!-- cartSearch End -->
+                        <form action="#" class="searchForm">
+                            <i class="icofont icofont-close"></i>
+                            <input type="search" placeholder="Search now">
+                            <input type="submit" value="&#xeded;">
+                        </form>
+                        <!-- searchForm End -->
+                    </div>
+                    <!-- column End -->
+                </div>
+                <!-- row End -->
+            </div>
+            <!-- container End -->
+        </div>
+        <!-- Header Bottom End -->
+    </header>
+    <!-- Header End -->
+    <!-- ==========================================================
+    2.*Hero_area start
+    ============================================================ -->
+    <section class="romana_hero_area">
+
+        <div id="first-slider">
+            <div id="carousel-example-generic" class="carousel slide carousel-fade">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <!-- Item 1 -->
+                    <div class="item active slide1">
+                        <div class="row">
+                            <div class="container">
+
+                                <div class="col-md-12 text-left">
+                                    <h6 data-animation="animated zoomInLeft">
+                                        I am proud to say I am
+                                    </h6>
+                                    <h1 data-animation="animated bounceInDown">"One stop shop for all your<br /> Mortgage Needs"</h1>
+                                    <h4 data-animation="animated bounceInUp">2.60% Variable for 5 years variable rates** Conditions Apply</h4>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item 2 -->
+                    <div class="item slide2">
+                        <div class="row">
+                            <div class="container">
+                                <div class="col-md-12 text-left">
+                                    <h6 data-animation="animated zoomInLeft">
+                                        My commitment is towards my clients
+                                    </h6>
+                                    <h3 data-animation="animated bounceInDown">I didn't work for Banks, <br> I worked for YOU</h3>
+                                    <h4 data-animation="animated bounceInUp">2.70% Variable for 3 years variable rates** Conditions Apply</h4>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item 3 -->
+                    <div class="item slide3">
+                        <div class="row">
+                            <div class="container">
+                                <div class="col-md-12 text-left">
+                                    <h6 data-animation="animated zoomInLeft">
+                                        Your one cup of coffee with me
+                                    </h6>
+                                    <h3 data-animation="animated bounceInDown">Can save your <br /> Thousand's of Dollars.</h3>
+                                    <h4 data-animation="animated bounceInUp">3.24% Fixed for 5 years variable rates** Conditions Apply</h4>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Item 4 -->
+                    <div class="item slide4">
+                        <div class="row">
+                            <div class="container">
+                                <div class="col-md-12 text-left">
+                                    <h6 data-animation="animated zoomInLeft">
+                                        Winner of Optimus Awards
+                                    </h6>
+                                    <h3 data-animation="animated bounceInDown">Gold Optimus Award in 2016 <br> Silver Optimus Award for <br>2014 and 2015</h3>
+                                    <!--<h4 data-animation="animated bounceInUp">Bootstrap Image Carousel Slider with Animate.css</h4>-->
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <!-- End Wrapper for slides-->
+                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    <i class="fa fa-angle-left"></i><span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                    <i class="fa fa-angle-right"></i><span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <div class="client_img">
+            <img src="~/images/client.png" alt="Amit Khurana">
+        </div>
+    </section>
+    <!-- HeroSlider area end -->
+    <div class="romana_service_area ">
+        <div class="container">
+            <div class="row">
+                <h2 style="text-align:center;margin: 46px 0 0 0;">Request Free Consultation</h2>
+                <div class="romana_contact_formnew romana_contact_form2 romana_section_title">
+                    <div class="col-sm-2"><input type="text" name="userName" id="userName" placeholder="Name"></div>
+                    <div class="col-sm-2"><input type="text" name="userEmail" id="userEmail" placeholder="Email"></div>
+                    <div class="col-sm-2"><input type="text" name="userPhone" id="userPhone" placeholder="123-123-1234"></div>
+                    <div class="col-sm-2"><input type="text" name="userSubject" id="userSubject" placeholder="Subject"></div>
+                    <div class="col-sm-2"><input type="text" name="message" id="Message" placeholder="Message"></div>
+                    <div class="col-sm-2"><div class="romana_submit_btn"><input type="button" onclick="send()" value="send" class="common_shadow_hover"></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ==========================================================
+    3.*Service_area start
+    ============================================================ -->
+    <div class="romana_service_area romana_section_padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-sm-6 col-xs-12">
+                    <div class="romana_service_left_text romana_section_title">
+                        <h2>our services</h2>
+                        <p>At Mortgage4U , we take care of everything that has to do with mortgage and refinancing, leaving you with a stress-free mind and enough time for your productive activities. We have helped numerous clients over the years by providing them with Mortgage Solutions in Mississauga because we have their best interest at heart. That is why offer our valuable advice and expertise for free and even tell information not disclosed by banks.</p>
+                        <div class="romana_service_btn">
+                            <a href="#" onclick="location.href='@Url.Action("service")'">view more</a>
+                        </div>
+                    </div>
+                    <!-- romana_service_left_text End -->
+                </div>
+                <!-- column End -->
+                <div class="col-sm-3 col-md-offset-1 col-xs-6">
+                    <div class="romana_service_icon">
+                        <a href="../Home/debt_consolidation"><img src="~/images/service_icon1.png" alt="Debt Consolidation"></a>
+                        <a href="../Home/debt_consolidation"><h3>DEBT CONSOLIDATION</h3></a>
+                    </div>
+                    <!-- romana_service_icon End -->
+                    <div class="romana_service_icon">
+
+                        <a href="../Home/mortgage_rates"><img src="~/images/service_icon3.png" alt="Mortgage-rates"></a>
+                        <a href="../Home/mortgage_rates"><h3>BETTER MORTGAGE RATES	</h3></a>
+                    </div>
+                    <!-- romana_service_icon End -->
+                </div>
+                <!-- column End -->
+                <div class="col-sm-3 col-xs-6">
+                    <div class="romana_service_icon">
+                        <a href="../Home/refinancing"><img src="~/images/service_icon2.png" alt="Refinancing"></a>
+                        <a href="../Home/refinancing"><h3>REFINANCING</h3></a>
+                    </div>
+                    <!-- romana_service_icon End -->
+                    <div class="romana_service_icon">
+
+                        <a href="../Home/bruise_credit"><img src="~/images/service_icon4.png" alt="Bruise-Credit"></a>
+                        <a href="../Home/bruise_credit"><h3>MORTGAGE WITH BRUISE CREDIT</h3></a>
+                    </div>
+                    <!-- romana_service_icon End -->
+                </div>
+                <!-- column End -->
+            </div>
+            <!-- row End -->
+        </div>
+        <!-- container End -->
+    </div>
+    <!-- ==========================================================
+    4.*About_Us_area start
+    ============================================================ -->
+    <div class="romana_about_us_area">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-offset-1 col-sm-5 col-xs-12">
+                    <div class="romana_about_img">
+                        <img src="~/images/about.jpg" alt="Amit-Khurana">
+                    </div>
+                </div>
+                <!-- column End -->
+                <div class="col-md-6 col-sm-7 col-xs-12">
+                    <div class="romana_about_right_text romana_section_title text-right">
+                        <h2>ABOUT US</h2>
+                        <p>Getting a suitable mortgage is never easy. It is a stressful and time-consuming work. But with CENTUM Canada Mortgage Architect Specialists helping you, you don’t need to worry about a thing. Since our inception, we have been benefitting numerous customers with the best mortgage rates in the market.</p>
+                        <p>
+                            You can rely on us to find you the best mortgage. Due to our years of industry experience and a vast pool of connections, we are able to find out the best rates from lenders. To save you time and money, we negotiate with multiple lenders at the same time. Results are delivered even faster because of our experience and industry knowledge.
+                        </p>
+                        <div class="romana_about_btn">
+                            <a href="../Home/About">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- column End -->
+            </div>
+            <!-- row End -->
+        </div>
+        <!-- container End -->
+    </div>
+
+
+    <!-- ==========================================================
+    7.*Get_quote_area start
+    ============================================================ -->
+    <div class="romana_get_quote_area romana_section_padding">
+        <div class="container">
+            <div class="romana_get_quote">
+                <div class="row ">
+                    <div class="col-sm-8 col-sm-offset-1">
+                        <div class="romana_quote_text">
+                            <p> Over 4 years of <span>Experience</span> we will ensure you always get the best <span>Guidance</span>.</p>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-sm-2 col-xs-12">
+                        <div class="romana_quote_btn common_shadow_hover">
+                            <a href="~/images/CENTUM_Indigo_Mortgage-Application.pdf" target="_blank">mortgage application</a>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                </div>
+                <!-- row End -->
+            </div>
+        </div>
+        <!-- container End -->
+    </div>
+    <!-- ==========================================================
+    8.*Blog_area start
+    ============================================================ -->
+    <div class="romana_blog_area">
+        <div class="container">
+            <div class="row ">
+                <ul id="myList">
+                    @foreach (var item in Model.Latest_News)
+                    {
+                        <li class="col-md-4 col-sm-6">
+                            <article class="romana_single_post news_box">
+                                <div class="romana_post_title">
+                                    <h2 class="hdg_txt_limit">@item.title</h2>
+                                    <h3>Date: <span>@item.pubDate</span></h3>
+                                </div>
+                                <div class="romana_post_content">
+                                    <p class="p_txt_limit">@item.description </p>
+                                    <div class="romana_post_btn">
+                                        <a target="_blank" href="@item.link">Read More<i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </div>
+                            </article>
+                            <!-- romana_single_post End -->
+                        </li>
+                    }
+
+                    <!-- column End -->
+
+                </ul>
+                <div class="col-sm-4">
+                    <div class="romana_blog_text romana_section_title">
+                        <h2>OUR RECENT NEWS</h2>
+                        <p>Roenris in iis qui facim claritatem. Inveatnes Claritfrtas est etim proce sus dynamicus vhb vert,cessus dynag cess rtus dya tm claritate.</p>
+                    </div>
+                    <div class="romana_blog_btn">
+                        <a href="../Home/news">read more</a>
+                    </div>
+                </div>
+                <!-- column End -->
+            </div>
+            <!-- row End -->
+        </div>
+        <!-- container End -->
+    </div>
+
+
+
+    <!-- ==================================================
+    11.*Brand_area start
+    =================================================== -->
+    <div class="romana_brand_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="brand_crsl">
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img1.png" alt="Caamp Accha Icon"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img2.png" alt="Vaughan Chamber of Choice icon"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img3.png" alt="The Construction Institue of Canada"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img4.png" alt="Imba Icon"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img5.png" alt="CFIB Icon"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img1.png" alt="Caamp Accha Icon"></a>
+                        </div>
+                        <div class="single_brand">
+                            <a href="#"><img src="~/images/brand_img2.png" alt="Vaughan Chamber of Choice icon"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- column end-->
+            </div>
+            <!-- row end -->
+        </div>
+        <!-- container end -->
+    </div>
+    <!-- ==================================================
+    12.*Footer_area start
+    =================================================== -->
+    <footer class="romana_footer_area">
+        <div class="romana_footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="romana_footer_left">
+                            <div class="romna_footer_logo">
+                                <h2>Amit khurana</h2>
+                                <!-- <a href="#"><img src="images/footer_logo.png" alt="footer logo"></a>-->
+                            </div>
+                            <p>At CENTUM Canada, we've been successfully delivering the best rate for tens of thousands of satisfied clients.</p>
+                            <div class="romana_footer_social_link">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="romana_important_link">
+                            <h2>important links</h2>
+                            <ul>
+                                <li><a href="../Home/Index">home</a></li>
+                                <li><a href="../Home/About">about us</a></li>
+                                <li><a href="../Home/service">services</a></li>
+                            </ul>
+                        </div>
+                        <div class="romana_important_link2">
+                            <ul>
+                                <li><a href="../Home/news">news</a></li>
+                                <li><a href="../Home/Contact">contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="romana_recent_projects">
+                            <h2>Our Services</h2>
+                            <a href="../Home/mortgage_rates">
+                                <img src="~/amitkhurana/images/footer_img1.png" alt="BETTER-MORTGAGE-RATES">
+                            </a>
+
+                            <a href="../Home/refinancing">
+                                <img src="~/amitkhurana/images/footer_img2.png" alt="Residential-Mortgage-Refinancing-Brokers">
+                            </a>
+                            <a href="../Home/debt_consolidation">
+                                <img src="~/amitkhurana/images/footer_img3.png" alt="CONSOLIDATE-YOUR-DEBT-PAYMENTS">
+                            </a>
+                            <a href="../Home/private_funds">
+                                <img src="~/amitkhurana/images/footer_img4.png" alt="private_funds">
+                            </a>
+                            <a href="../Home/mortgages">
+                                <img src="~/amitkhurana/images/footer_img5.png" alt="mortgages">
+                            </a>
+                            <a href="../Home/bruise_credit">
+                                <img src="~/amitkhurana/images/footer_img6.png" alt="bruise_credit">
+                            </a>
+                            <a href="../Home/lease_programme">
+                                <img src="~/amitkhurana/images/footer_img7.png" alt="lease_programme">
+                            </a>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                </div>
+                <div class="privacy_policy_link">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p>Privacy Policy: &nbsp;&nbsp;&nbsp;*Subject to approved credit, income verification and meeting lending credit granting criteria. Applies to residential mortgages only and some conditions may apply. O.A.C., E.O.E</p>
+                        </div>
+                        <!-- column End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer_top End -->
+        <div class="romana_footer_bottom">
+            <div class="container">
+                <div class="romana_footer_bottom_content text-center">
+
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p>Amit Khurana 2018 &copy; All right reserved</p>
+                        </div>
+                        <!-- column End -->
+                    </div>
+                    <!-- row End -->
+                </div>
+                <!-- container End -->
+            </div>
+        </div>
+        <!-- footer_bottom End -->
+    </footer>
+    <!-- ======================================================
+        ***Js Files***
+    =========================================================== -->
+    <!-- ================= Main Js ==================== -->
+    <script src="~/amitkhurana/js/jquery-3.1.0.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- ================= Bootstrap min Js =========== -->
+
+    <script src="~/amitkhurana/js/bootstrap.min.js"></script>
+    <!-- ================= owl carousel min Js ======== -->
+    <script src="~/amitkhurana/js/owl.carousel.min.js"></script>
+    <!-- ================= Active Js ================== -->
+    <script src="~/amitkhurana/js/active.js"></script>
+</body>
+
+<script type="text/javascript">
+    (function( $ ) {
+
+        //Function to animate slider captions
+        function doAnimations( elems ) {
+            //Cache the animationend event in a variable
+            var animEndEv = 'webkitAnimationEnd animationend';
+
+            elems.each(function () {
+                var $this = $(this),
+                    $animationType = $this.data('animation');
+                $this.addClass($animationType).one(animEndEv, function () {
+                    $this.removeClass($animationType);
+                });
+            });
+        }
+
+        //Variables on page load
+        var $myCarousel = $('#carousel-example-generic'),
+            $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
+
+        //Initialize carousel
+        $myCarousel.carousel();
+
+        //Animate captions in first slide on page load
+        doAnimations($firstAnimatingElems);
+
+        //Pause carousel
+        $myCarousel.carousel('pause');
+
+
+        //Other slides to be animated on carousel slide event
+        $myCarousel.on('slide.bs.carousel', function (e) {
+            var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
+            doAnimations($animatingElems);
+        });
+        $('#carousel-example-generic').carousel({
+            interval:3000,
+            pause: "false"
+        });
+
+    })(jQuery);
+
+
+</script>
+</html>
+
+<script>
+    $(document).ready(function () {
+        size_li = $("#myList li").size();
+        x = 6;
+        $('#myList li:lt(' + x + ')').show();
+        $('#loadMore').click(function () {
+            x = (x + 6 <= size_li) ? x + 6 : size_li;
+            $('#myList li:lt(' + x + ')').show();
+        });
+        $('#showLess').click(function () {
+            x = (x - 6 < 0) ? 6 : x - 6;
+            $('#myList li').not(':lt(' + x + ')').hide();
+        });
+    });
+</script>
+
+<script>
+    function send() {
+
+        if (ValidUsername() && ValidEmail() && ValidPhone() && ValidSubject() && Validmessage()) {
+            var person = {
+                name: $("#userName").val(),
+                email: $("#userEmail").val(),
+                phone: $("#userPhone").val(),
+                subject: $("#userSubject").val(),
+                Message: $("#Message").val(),
+            }
+
+            $('#target').html('sending..');
+
+            $.ajax({
+                url: '/home/sendmail',
+                type: 'post',
+                dataType: 'json',
+                success: function (data) {
+                    $('#target').html(data.msg);
+                    alert('Message send successfully.');
+                },
+                error: function(data) { 
+                    alert('Message send failed.');
+                },
+                data: person
+            });
+        }
+        else {
+            return false;
+        }
+    }
+    function ValidUsername() {
+
+        //first name validation
+        var firstname = $("#userName").val();
+        if (firstname !== '') {
+            if (!/^[a-zA-Z]*$/g.test(firstname)) {
+                $("#userName").addClass('validation_control');
+                alert("Invalid user name.");
+                return false;
+            } else if (firstname.length > 30) {
+                $("#userName").addClass('validation_control');
+                alert('firstname cannot exceed more than 30 characters.');
+                return false;
+            }
+            else {
+                $("#userName").removeClass('validation_control');
+                return true;
+            }
+        }
+        else {
+            $("#userName").addClass('validation_control');
+            alert('must enter username.');
+
+        }
+
+        //End
+
+    }
+    function ValidEmail() {
+        //Email validation
+        var Email = $("#userEmail").val();
+        if (Email !== '') {
+            var emailReg = /^([\w-\.]+@@([\w-]+\.)+[\w-]{2,4})?$/;
+            if (Email.length > 30) {
+                alert('email length cannot exceed more than 30 characters.');
+                $("#userEmail").addClass('validation_control');
+                return false;
+            } else if (!emailReg.test(Email)) {
+                alert('please enter the valid email.');
+                $("#userEmail").addClass('validation_control');
+                return false;
+            }
+            else {
+                $("#userEmail").removeClass('validation_control');
+                return true;
+            }
+        }
+        else {
+            $("#userEmail").addClass('validation_control');
+            alert('must enter emails.');
+            return false;
+        }
+
+        //End
+    }
+    function ValidPhone() {
+        //phone no. validation
+        var phone = $("#userPhone").val();
+        if (phone !== '') {
+            var phonereg = /^\d{3}-\d{3}-\d{4}$/;
+            if (phone.length > 12) {
+                $("#userPhone").addClass('validation_control');
+                alert('phone no. length cannot exceed more than 12 characters.');
+                return false;
+            } else if (!phonereg.test(phone)) {
+                $("#userPhone").addClass('validation_control');
+                alert('please enter the valid phone no.');
+                return false;
+            }
+            else {
+                $("#userPhone").removeClass('validation_control');
+                return true;
+            }
+        }
+        else {
+            $("#userPhone").addClass('validation_control');
+            alert('must phone no.');
+            return false;
+        }
+
+
+        //end
+    }
+    function ValidSubject() {
+        //subject validation
+        var subject = $("#userSubject").val();
+        if (subject !== '') {
+            if (subject.length > 50) {
+                $("#userSubject").addClass('validation_control');
+                alert(' subject length cannot exceed more than 50 characters.');
+                return false;
+            }
+            else {
+                $("#userSubject").removeClass('validation_control');
+                return true;
+            }
+        }
+        else {
+            $("#userSubject").addClass('validation_control');
+            alert('must enter subject.');
+        }
+
+        //end
+    }
+    function Validmessage() {
+        //subject validation
+        var subject = $("#Message").val();
+        if (subject.length > 500) {
+            alert(' Body length cannot exceed more than 500 characters.');
+            return false;
+        }
+        else {
+            return true;
+        }
+        //end
+    }
+</script>
